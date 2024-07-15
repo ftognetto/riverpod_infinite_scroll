@@ -41,3 +41,7 @@
 ## 1.0.9
 
 - Upgraded riverpod version to 2.0.0
+
+## 1.0.10
+
+- Upgraded infinite_scroll_pagination version to 4.0.0
