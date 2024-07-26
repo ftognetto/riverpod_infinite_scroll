@@ -45,3 +45,7 @@
 ## 1.0.10
 
 - Upgraded infinite_scroll_pagination version to 4.0.0
+
+## 1.0.11
+
+- Upgraded flutter_riverpod version to match '>=2.0.0 <=3.0.0'
